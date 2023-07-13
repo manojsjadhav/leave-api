@@ -60,6 +60,84 @@
       "conditions": true,
       "userType": "S",
       "id": "26a87ecd-9eee-4771-9c17-8ad143151ffc"
+    },
+    {
+      "fullname": "sohan",
+      "email": "sohan@gmail.com",
+      "password": "112233",
+      "number": "9988774455",
+      "gender": "Male",
+      "birthdate": "2023-07-05",
+      "admissionNo": "151",
+      "class": "bca-III",
+      "conditions": true,
+      "userType": "S",
+      "id": "26a87ecd-9eee-4771-9c17-8ad143151ffs"
+    },
+    {
+      "fullname": "ishvar",
+      "email": "ishvar@gmail.com",
+      "password": "112233",
+      "number": "9988774455",
+      "gender": "Male",
+      "birthdate": "2023-07-05",
+      "admissionNo": "152",
+      "class": "bca-III",
+      "conditions": true,
+      "userType": "S",
+      "id": "26a87ecd-9eee-4771-9c17-8ad144451ffc"
+    },
+    {
+      "fullname": "om",
+      "email": "om@gmail.com",
+      "password": "112233",
+      "number": "9988774455",
+      "gender": "Male",
+      "birthdate": "2023-07-05",
+      "admissionNo": "153",
+      "class": "bca-III",
+      "conditions": true,
+      "userType": "S",
+      "id": "26a87ecd-9eee-4141-9c17-8ad143151ffc"
+    },
+    {
+      "fullname": "smita",
+      "email": "smita@gmail.com",
+      "password": "112233",
+      "number": "9988774455",
+      "gender": "Female",
+      "birthdate": "2023-07-05",
+      "admissionNo": "154",
+      "class": "bca-III",
+      "conditions": true,
+      "userType": "S",
+      "id": "26a87ecd-95ee-4771-9c17-8ad143151ffc"
+    },
+    {
+      "fullname": "sarkar",
+      "email": "sarkar@gmail.com",
+      "password": "112233",
+      "number": "9988774455",
+      "gender": "Male",
+      "birthdate": "2023-07-05",
+      "admissionNo": "155",
+      "class": "bca-III",
+      "conditions": true,
+      "userType": "S",
+      "id": "26a87ecd-9eee-4771-9c17-8ad147771ffc"
+    },
+    {
+      "fullname": "pooja",
+      "email": "pooja@gmail.com",
+      "password": "112233",
+      "number": "9988774455",
+      "gender": "Female",
+      "birthdate": "2023-07-05",
+      "admissionNo": "156",
+      "class": "bca-III",
+      "conditions": true,
+      "userType": "S",
+      "id": "26117ecd-9eee-4771-9c17-8ad143151ffc"
     }
   ],
   "leaves": [
@@ -95,7 +173,7 @@
       "enddate": "2023-06-10",
       "reason": "i am not well",
       "status": "Pending",
-      "id": "7db00437-bc3e-42fa-8893-eef421601f1e"
+      "id": "7dbcc437-bc3e-42fa-8893-eef421601f1e"
     },
     {
       "fullname": "pavan",
@@ -103,8 +181,44 @@
       "startdate": "2023-07-04",
       "enddate": "2023-07-06",
       "reason": "hjfbsbrrg",
+      "status": "Pending",
+      "id": "c0d4cff2-2ff6-4124-b2ef-46c30009e902"
+    },
+    {
+      "fullname": "om",
+      "admissionNo": "153",
+      "startdate": "2023-06-02",
+      "enddate": "2023-06-03",
+      "reason": "for function",
+      "status": "Pending",
+      "id": "4ac10f03-599b-4e40-a3f4-9c4eabffead7"
+    },
+    {
+      "fullname": "pooja",
+      "admissionNo": "156",
+      "startdate": "2023-06-01",
+      "enddate": "2023-06-02",
+      "reason": "for family issue",
+      "status": "Pending",
+      "id": "a727bc59-d119-4213-bb18-9dbc3a38f702"
+    },
+    {
+      "fullname": "sarkar",
+      "admissionNo": "155",
+      "startdate": "2023-06-08",
+      "enddate": "2023-06-10",
+      "reason": "i am not well",
+      "status": "Pending",
+      "id": "7db00007-bc3e-42fa-8893-eef421601f1e"
+    },
+    {
+      "fullname": "smita",
+      "admissionNo": "154",
+      "startdate": "2023-07-04",
+      "enddate": "2023-07-06",
+      "reason": "hjfbsbrrg",
       "status": "Approved",
-      "id": "c0d4c842-2ff6-4124-b2ef-46c30009e902"
+      "id": "c0d55542-2ff6-4124-b2ef-46c30009e902"
     }
   ]
 }
